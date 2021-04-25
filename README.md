@@ -5,7 +5,7 @@ clone this repo
 then paste all the accounts in src/main/resources/static/userList.txt
 format will be
 account:password
-abcd@gmail.com:nitin1234
+abcd@gmail.com:abcd1234
 
 now run the command
 ./gradlew bootrun in altchecker directory
